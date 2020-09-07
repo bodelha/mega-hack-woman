@@ -1,7 +1,7 @@
 (function($) {
 
 	/**
-	 * Generate an indented list of links from a nav. Meant for use with panel().
+	 * Gere uma lista recuada de links de um nav. Destinado a ser usado com o painel ().
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.navList = function() {
@@ -297,7 +297,7 @@
 	};
 
 	/**
-	 * Apply "placeholder" attribute polyfill to one or more forms.
+	 * Aplique polyfill de atributo "placeholder" a um ou mais formulários.
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.placeholder = function() {
